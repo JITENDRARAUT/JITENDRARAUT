@@ -12,6 +12,16 @@ Welcome to my GitHub profile! I'm passionate about building innovative web appli
 - 👯 Open to collaborating on interesting projects
 - ⚡ Turning ideas into code, one commit at a time
 
+### 🏅 Certifications
+
+- AWS Academy Graduate – Cloud Foundations (Amazon Web Services Training and Certification) — issued Jan 25, 2026. [View badge](https://www.credly.com/badges/dcdf92fa-3148-4cc8-8e64-754629164f9f/public_url)
+  
+  <p align="center">
+    <a href="https://www.credly.com/badges/dcdf92fa-3148-4cc8-8e64-754629164f9f/public_url" aria-label="AWS Academy Graduate – Cloud Foundations badge">
+      <img src="https://images.credly.com/size/680x680/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" alt="AWS Academy Graduate – Cloud Foundations badge" width="220" />
+    </a>
+  </p>
+
 ### 🛠️ Tech Stack
 
 **Frontend:**
@@ -35,17 +45,12 @@ Welcome to my GitHub profile! I'm passionate about building innovative web appli
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JITENDRARAUT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JITENDRARAUT&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JITENDRARAUT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JITENDRARAUT&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JITENDRARAUT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JITENDRARAUT&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JITENDRARAUT&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JITENDRARAUT&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ### 🌐 Connect With Me
