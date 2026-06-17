@@ -1,16 +1,28 @@
 # Hi there! 👋 I'm Jitendra Raut
 
-## 🎓 IT Engineering Student | 💻 Full-Stack Developer
+### 🎓 IT Engineering Student | 💻 Full-Stack Developer | ☁️ Cloud Enthusiast
 
-Welcome to my GitHub profile! I'm passionate about building innovative web applications and exploring new technologies.
+Welcome to my GitHub profile! I'm passionate about building scalable web applications, designing efficient backend architectures, and exploring cloud technologies.
 
 ### 🚀 About Me
 
-- 🔭 Currently pursuing IT Engineering
-- 💡 Focused on full-stack web development
-- 🌱 Always learning and experimenting with new technologies
-- 👯 Open to collaborating on interesting projects
-- ⚡ Turning ideas into code, one commit at a time
+- 🎓 **Education:** Currently pursuing IT Engineering
+- 💻 **Focus:** Full-stack web development & Cloud infrastructure
+- 💡 **Mindset:** Always learning, experimenting, and turning ideas into code
+- 🤝 **Collaboration:** Open to collaborating on innovative open-source or commercial projects
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express.js&logoColor=%2361DAFB) (RESTful APIs) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
+| **Tools & Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+
+---
 
 ### 🏅 Certifications
 
@@ -22,25 +34,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative web appli
     </a>
   </p>
 
-### 🛠️ Tech Stack
-
-**Frontend:**
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js
-- Responsive Design
-
-**Backend:**
-- Node.js, Express.js
-- RESTful APIs
-
-**Database:**
-- MongoDB
-- MySQL
-
-**Tools & Technologies:**
-- Git & GitHub
-- VS Code
-- Postman
+---
 
 ### 📊 GitHub Stats
 
