@@ -53,13 +53,14 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JITENDRARAUT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JITENDRARAUT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" /> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JITENDRARAUT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JITENDRARAUT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" /> 
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JITENDRARAUT&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
 </p>
+
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitendra-narayan-raut-6b630b256)
