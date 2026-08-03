@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ### 🏅 Certifications
 
 - AWS Academy Graduate – Cloud Foundations (Amazon Web Services Training and Certification) — issued Jan 25, 2026. [View badge](https://www.credly.com/badges/dcdf92fa-3148-4cc8-8e64-754629164f9f/public_url)
-  
+
   <p align="center">
     <a href="https://www.credly.com/badges/dcdf92fa-3148-4cc8-8e64-754629164f9f/public_url" aria-label="AWS Academy Graduate – Cloud Foundations badge">
       <img src="https://images.credly.com/size/680x680/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" alt="AWS Academy Graduate – Cloud Foundations badge" width="220" />
@@ -39,6 +39,16 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ---
 
+- AWS Academy Graduate – Cloud Operations (Amazon Web Services Training and Certification) — issued Aug 03, 2026. [View badge](https://www.credly.com/badges/917e3c9a-6cfe-4bf6-b79e-538a35107c42/public_url)
+
+  <p align="center">
+    <a href="https://www.credly.com/badges/917e3c9a-6cfe-4bf6-b79e-538a35107c42/public_url" aria-label="AWS Academy Graduate – Cloud Operations badge">
+      <img width="186" height="186" alt="aws-academy-graduate-cloud-operations-training-badg (2)" src="https://github.com/user-attachments/assets/1f2aca09-8eea-47f4-b6f5-cfa92c341709" />
+
+    </a>
+  </p>
+
+---
 
 ### 📊 GitHub Stats
 
