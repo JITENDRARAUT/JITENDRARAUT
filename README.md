@@ -50,16 +50,61 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
+<div align="center">
+
+## ⚡ GitHub Analytics & Achievements
+
+<div align="center">
+
+<!-- Cyberpunk Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7209b7,100:00f5d4&height=120&section=header&text=⚡%20JITENDRA%20RAUT%20⚡&fontSize=38&fontColor=ffffff&stroke=00f5d4&strokeWidth=1" alt="Header Banner" width="100%" />
+
+<br />
+
+<!-- Neon Skill & Tech Badges -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JITENDRARAUT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JITENDRARAUT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" /> 
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Ops-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
+<br />
+
+<!-- Radical Cyberpunk Stats & Language Cards -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JITENDRARAUT&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
+  <a href="https://github.com/JITENDRARAUT">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JITENDRARAUT&show_icons=true&theme=radical&hide_border=false&border_color=00f5d4&title_color=00f5d4&icon_color=f72585&text_color=ffffff&bg_color=0f0e17&count_private=true&include_all_commits=true&rank_icon=github&border_radius=15" alt="GitHub Stats" width="49%" />
+  </a>
+  <a href="https://github.com/JITENDRARAUT">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JITENDRARAUT&layout=compact&theme=radical&hide_border=false&border_color=00f5d4&title_color=00f5d4&text_color=ffffff&bg_color=0f0e17&langs_count=6&border_radius=15" alt="Top Languages" width="49%" />
+  </a>
 </p>
+
+<br />
+
+<!-- Animated Contribution Snake -->
+<h3 align="center">🐍 Contribution Matrix Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JITENDRARAUT/JITENDRARAUT/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</p>
+
+<br />
+
+<!-- Neon Glowing Activity Graph -->
+<p align="center">
+  <a href="https://github.com/JITENDRARAUT">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JITENDRARAUT&bg_color=0f0e17&color=00f5d4&line=f72585&point=00f5d4&area=true&area_color=7209b7&title_color=00f5d4&axis_color=a7a9be&hide_border=false&border_color=00f5d4" alt="Contribution Graph" width="100%" />
+  </a>
+</p>
+
+---
+
+</div>
+
+
 
 ### 🌐 Connect With Me
 
