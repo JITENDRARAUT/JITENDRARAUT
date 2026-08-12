@@ -79,7 +79,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JITENDRARAUT&show_icons=true&theme=radical&hide_border=false&border_color=00f5d4&title_color=00f5d4&icon_color=f72585&text_color=ffffff&bg_color=0f0e17&count_private=true&include_all_commits=true&rank_icon=github&border_radius=15" alt="GitHub Stats" width="49%" />
   </a>
   <a href="https://github.com/JITENDRARAUT">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JITENDRARAUT&layout=compact&theme=radical&hide_border=false&border_color=00f5d4&title_color=00f5d4&text_color=ffffff&bg_color=0f0e17&langs_count=6&border_radius=15" alt="Top Languages" width="49%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JITENDRARAUT&layout=compact&theme=radical&hide_border=false&border_color=00f5d4&title_color=00f5d4&text_color=ffffff&bg_color=0f0e17&langs_count=6&border_radius=15" alt="Top Languages" width="49%" /> 
   </a>
 </p>
 
