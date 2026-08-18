@@ -80,7 +80,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
   </a>
   <a href="https://github.com/JITENDRARAUT">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JITENDRARAUT&layout=compact&theme=radical&hide_border=false&border_color=00f5d4&title_color=00f5d4&text_color=ffffff&bg_color=0f0e17&langs_count=6&border_radius=15" alt="Top Languages" width="49%" /> 
-  </a>
+  </a> 
 </p>
 
 <br />
