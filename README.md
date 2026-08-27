@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ---
 
-- AWS Academy Graduate – Machine Learning Foundations (Amazon Web Services Training and Certification). [View badge](https://www.credly.com/badges/1a1b9c3e-62c4-483d-8a87-60a06bc3fc8f/public_url)
+- AWS Academy Graduate – Machine Learning Foundations (Amazon Web Services Training and Certification) — issued Aug 03, 2026. [View badge](https://www.credly.com/badges/1a1b9c3e-62c4-483d-8a87-60a06bc3fc8f/public_url)
 
   <p align="center">
     <a href="https://www.credly.com/badges/1a1b9c3e-62c4-483d-8a87-60a06bc3fc8f/public_url" aria-label="AWS Academy Graduate – Machine Learning Foundations badge">
